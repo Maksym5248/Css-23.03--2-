@@ -1,0 +1,48 @@
+html {
+	background-image: url(seigaiha.png);
+	background-repeat: repeat;
+}
+body {
+	background-image: url(BA_new_icon.png);
+	background-position: right 15px top 25px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.title {
+	font-size: 40px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	color: #333;
+}
+
+.additional_text {
+	font-size: 0.5em;
+	font-style: italic;
+	color: #ccc;
+
+}
+.The_Roman_Empire{
+	font-size: 16px;
+	font-weight: 700;
+	color: #888;
+}
+
+.content {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 700;
+}
+
+.point_content {
+	list-style-type: none;
+}
+
+
+/*
+
+.subtitle{
+	font-size: 16px;
+
+}
+/* 
